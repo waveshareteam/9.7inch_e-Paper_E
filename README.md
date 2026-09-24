@@ -23,6 +23,7 @@ The 9.7inch E-Paper (E) is a full-color e-ink screen with a resolution of 1120 �
 │   ├── RaspberryPi_JetsonNano/ # Raspberry Pi and Jetson Nano examples
 │   └── STM32-F103ZET6/         # STM32 example
 ├── hardware/
+│   ├── datasheet/              # Product datasheets
 │   └── schematics/             # Hardware schematics
 ├── LICENSE
 ├── README.md                   # English documentation

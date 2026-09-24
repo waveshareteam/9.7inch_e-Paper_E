@@ -23,6 +23,7 @@
 │   ├── RaspberryPi_JetsonNano/ # Raspberry Pi 和 Jetson Nano 示例
 │   └── STM32-F103ZET6/         # STM32 示例
 ├── hardware/
+│   ├── datasheet/              # 产品数据手册
 │   └── schematics/             # 硬件原理图
 ├── LICENSE
 ├── README.md                   # 英文说明文档
